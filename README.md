@@ -26,7 +26,7 @@
 
 대략적인 컴포넌트 구조
 <br>
-<img src="https://user-images.githubusercontent.com/52727782/136580213-ff3fa144-f739-44ae-9415-320690c66467.jpg" style="height:300px;"/>
+<img src="https://user-images.githubusercontent.com/52727782/136580213-ff3fa144-f739-44ae-9415-320690c66467.jpg" style="height:700px;"/>
 
 시연영상
 
