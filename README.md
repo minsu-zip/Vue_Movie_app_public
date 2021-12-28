@@ -25,7 +25,7 @@
 - [x] 잘못된 경로 처리
 
 대략적인 컴포넌트 구조
-<img src='https://user-images.githubusercontent.com/52727782/136580213-ff3fa144-f739-44ae-9415-320690c66467.jpg' style=height:'80%';>
+<img src='https://user-images.githubusercontent.com/52727782/136580213-ff3fa144-f739-44ae-9415-320690c66467.jpg' style="height:80%";>
 <!-- ![컴포넌트 구조](https://user-images.githubusercontent.com/52727782/136580213-ff3fa144-f739-44ae-9415-320690c66467.jpg) -->
 
 시연영상
