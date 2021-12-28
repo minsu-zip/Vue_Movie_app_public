@@ -1,5 +1,6 @@
 ## 📌 프로젝트 설명 <!-- 어떤 걸 만들었는지 대략적으로 설명해주세요 -->
 프로그래머스 데브코스에서 진행한 프로젝트로 일부 기록이 노출되면 안 되는 상황으로 인해 commit 기록이 없음
+<br>
 [Vue3를 활용한 간단한 영화 검색 사이트](https://angry-albattani-9bdfaf.netlify.app/)
 
 이벤트 흐름 :
@@ -24,7 +25,8 @@
 - [x] 잘못된 경로 처리
 
 대략적인 컴포넌트 구조
-![컴포넌트 구조](https://user-images.githubusercontent.com/52727782/136580213-ff3fa144-f739-44ae-9415-320690c66467.jpg)
+<img src='https://user-images.githubusercontent.com/52727782/136580213-ff3fa144-f739-44ae-9415-320690c66467.jpg' style=height:'80%';>
+<!-- ![컴포넌트 구조](https://user-images.githubusercontent.com/52727782/136580213-ff3fa144-f739-44ae-9415-320690c66467.jpg) -->
 
 시연영상
 
