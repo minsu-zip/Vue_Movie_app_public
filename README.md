@@ -30,4 +30,7 @@
 
 시연영상
 
-https://user-images.githubusercontent.com/52727782/136582907-6ce83545-e7a6-42da-9bf6-e483894933e1.mp4
+
+https://user-images.githubusercontent.com/52727782/149652575-d42dc971-82ae-4878-9b10-3cb2ee00318e.mp4
+
+
