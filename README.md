@@ -31,6 +31,8 @@
 시연영상
 
 
-https://user-images.githubusercontent.com/52727782/149652575-d42dc971-82ae-4878-9b10-3cb2ee00318e.mp4
+https://user-images.githubusercontent.com/52727782/150547417-004f2a1a-859d-4e22-8348-22d454890b15.mp4
+
+
 
 
